@@ -57,4 +57,4 @@ The generated APK can be found at ```/android/app/build/outputs/apk/debug/app-de
 ## Extras
 The folder ```/pythonScripts``` contains python scripts to:
 1.   ```csvToJson.py``` to turn CSVs into a an array to be used in ```/components/constants/keywordsAndCompanies.js```
-2.  ```csvAlphaSort.py``` to alphabetically sort a CSV file by the elements in its first column, for use in the item picker.
+2.  ```csvAlphaSort.py``` to alphabetically sort a CSV file by the elements in its first column, for use in the item picker.# BulltrackSTT
