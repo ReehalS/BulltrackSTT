@@ -1,5 +1,5 @@
 # Bulltrack Speech To Text conversion App
-Converts speech to text and gives an output with Company names and keywords related to Stock Trading
+Converts speech to text and gives an output with Company names and keywords for BullTrack's App
 ## Features
 - Recording auto-stops after 3 seconds of silence.
 - The companies.csv and keywords.csv contain alternate pronounciations of every word. The first element in every row is the intended word or name, and all words after that are alternate pronounciations.
